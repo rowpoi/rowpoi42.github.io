@@ -1,13 +1,9 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 获得人民日报，玉林日报等多家权威媒体的多次报导，全网阅读量超五千万
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 获得三十多家高校、地方和企业捐赠的活动资金、场地及各项物资
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- 辐射超过五百多个乡村，影响儿童超十五万位
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- 建立稳定十三个服务站点，总计开展近千场活动
 
