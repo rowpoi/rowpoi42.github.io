@@ -1,22 +1,16 @@
-title: Sen Li's Homepage
-page-top-title: Sen Li
-top-section-bg-text: Data Science
+title: 鬰见美好阅读团队|书香越过山峦
+page-top-title: 鬰见美好
+top-section-bg-text: 书香越过山峦
 backgrounds:
-  - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
+  - static/assets/img/屏幕截图 2026-08-20 223717.png
+  - static/assets/img/774.png
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
-github-link:
-  text: Github
-  href: https://github.com/senli1073
-license-link:
-  text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+copyright-text:  Encountering beauty team 2026 All Rights Reserved.'
 sections:
   - id: home
     nav: HOME
-    title: Sen Li&ensp;|&ensp;李森
+    title: 鬰见美好&ensp;|&ensp;阅读团队
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
